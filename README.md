@@ -50,6 +50,8 @@ Run the system:
 ```bash
 python main.py
 ```
+## Output
+![image](https://github.com/user-attachments/assets/b220096a-9e9e-4c73-bf4c-ab96798fcece)
 
 ## Features
 
